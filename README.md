@@ -1,0 +1,1 @@
+This repo includes projects create on Azure with Python SDK.
